@@ -11,9 +11,10 @@
 
 ## Hi 👋, I'm Othmane
 
-I'm a software developer in France working with Java EE who loves to craft web application as a hobby.
+I'm a software engineer in France working with Java EE who loves to craft web application as a hobby.
 
-I currently work with Java (Spring Framework) and CloudBees (Jenkins) for some CI/CD for the most part, but I'm also very interested in the Javascript environment : Typescript, React, Angular and so on.
+I currently work with Java (Spring Framework) for web developpement and CloudBees (Jenkins) for CI/CD.
+I'm also very interested in the Javascript environment : Vite, NextJs, Typescript, React, Angular and so on.
 
 💼 I'm working for a french company : Atos as a Software engineer.
 
@@ -35,9 +36,7 @@ I currently work with Java (Spring Framework) and CloudBees (Jenkins) for some C
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>
 </div>
 
