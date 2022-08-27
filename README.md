@@ -17,7 +17,7 @@ I currently work with Java (Spring Framework) and CloudBees (Jenkins) for some C
 
 💼 I'm working for a french company : Atos as a Software engineer.
 
-👨‍💻 I'm always crafting apps with different technologies as side projects to improve my dev skills.
+👨‍💻 I love remote working & I'm always crafting apps with different technologies as side projects to improve my dev skills.
 
 ### :hammer_and_wrench: Languages and Tools :
 
