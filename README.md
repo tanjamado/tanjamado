@@ -3,24 +3,19 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/othmane-allamou/">
+  <a href="https://www.linkedin.com/in/othmane-allamou/" targer="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 
+## Hi 👋, I'm Othmane
 
-<!--
-**tanjamado/tanjamado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer in France working with Java EE who loves to craft web application as a hobby.
 
-Here are some ideas to get you started:
+I currently work with Java and witgh with Jenkins for some CI/CD for the most part, but I'm also very interested in the Javascript environment : Typescript, React, Angular and so on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I'm working for a french company : Atos as a Software engineer.
+
+👨‍💻 I'm always crafting apps with different technologies as side projects to improve my dev skills.
+
