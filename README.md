@@ -18,7 +18,7 @@ I'm also very interested in the Javascript environment : Vite, NextJs, Typescrip
 
 💼 I'm working for a french company : Atos as a Software engineer.
 
-👨‍💻 I love remote working & I'm always crafting apps with different technologies as side projects to improve my dev skills.
+👨‍💻 I love remote working & I'm always crafting apps with different technologies as side projects to improve my dev skills (Yes I'm addicted 🙄).
 
 ### :hammer_and_wrench: Languages and Tools :
 
