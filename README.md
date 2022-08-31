@@ -14,7 +14,7 @@
 I'm a software engineer in France working with Java EE who loves to craft web application as a hobby.
 
 I currently work with Java (Spring Framework) for web developpement and CloudBees (Jenkins) for CI/CD.
-I'm also very interested in the Javascript environment : Vite, NextJs, Typescript, React, Angular and so on.
+I'm also very interested in the Javascript scope : Vite, NextJs, Typescript, React, Angular and so on.
 
 💼 I'm working for a french company : Atos as a Software engineer.
 
